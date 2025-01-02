@@ -1,1 +1,0 @@
-# com.callerscreen.colorphone.themes.callflash
